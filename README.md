@@ -56,8 +56,7 @@ The simulation demonstrates the complete flight sequence within a single traject
 
 ### Files
 
-The `quaternion_based_control/` directory contains the relevant MATLAB/Simulink implementation files and the corresponding simulation video.
-*The folder and video filenames above are examples. Replace them with the actual names and locations in your repository.*
+The `quaternion_based_control/` directory contains the relevant MATLAB/Simulink implementation files and the corresponding simulation plots while tracking the trajectory.
 
 ## Software and Tools
 
