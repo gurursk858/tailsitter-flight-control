@@ -29,10 +29,10 @@ These simulations demonstrate the controller's behaviour during vertical flight 
 
 The `global_indi/` directory contains the relevant MATLAB/Simulink implementation files and simulation results.
 
-**Simulation videos:**
-- [VTOL Simulation](global_indi/videos/your_vtol_video.mp4)
-- [Circular Trajectory Tracking](global_indi/videos/your_circular_video.mp4)
-- [Lemniscate Trajectory Tracking](global_indi/videos/your_lemniscate_video.mp4)
+Simulation videos:
+- VTOL Simulation
+- Circular Trajectory Tracking
+- Lemniscate Trajectory Tracking
 
 ## 2. Modeling and Control of a Tailsitter UAV
 
@@ -57,9 +57,6 @@ The simulation demonstrates the complete flight sequence within a single traject
 ### Files
 
 The `quaternion_based_control/` directory contains the relevant MATLAB/Simulink implementation files and the corresponding simulation video.
-
-**Simulation video:** [Watch the VTOL, transition and landing simulation](quaternion_based_control/videos/your_video.mp4)
-
 *The folder and video filenames above are examples. Replace them with the actual names and locations in your repository.*
 
 ## Software and Tools
